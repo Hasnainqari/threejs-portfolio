@@ -2,8 +2,8 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=react&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logoColor=white&logo=html&color=DD4B25" alt="html" />
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logoColor=white&logo=html&color=000000" alt="three.js" />
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logoColor=white&logo=css&color=2785E4" alt="css" />
 </div>
 
