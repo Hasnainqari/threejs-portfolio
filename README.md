@@ -1,4 +1,4 @@
-<h3 align="center">A Modern Dev Portfolio</h3>
+<h3 align="center">A 3D Dev Portfolio</h3>
 
 <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -30,8 +30,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Hasnainqari/new-portfolio.git
-cd new-portfolio
+git clone https://github.com/Hasnainqari/threejs-portfolio.git
+cd threejs-portfolio
 ```
 
 **Installation**
