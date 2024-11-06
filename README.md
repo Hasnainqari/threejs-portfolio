@@ -9,9 +9,9 @@
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
+- Three.js
 - JavaScript
-- Web3Forms
-- Vite
+- Email JS
 - CSS
 - HTML
 
