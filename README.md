@@ -9,6 +9,12 @@
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logoColor=white&logo=css&color=2785E4" alt="css" />
 </div>
 
+<div align="center">
+    
+## <a name="quick-start">🤸 Tutorial on Youtube</a>
+[![Watch the video](https://img.youtube.com/vi/S-FDq5PC-Ms/hqdefault.jpg)](https://www.youtube.com/watch?v=S-FDq5PC-Ms)
+</div>
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
