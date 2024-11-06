@@ -2,6 +2,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="three.js" />
     <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logoColor=white&logo=html&color=DD4B25" alt="html" />
     <img src="https://img.shields.io/badge/css-black?style=for-the-badge&logoColor=white&logo=css&color=2785E4" alt="css" />
 </div>
@@ -50,4 +51,4 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-<img src="" />
+<img alt="screen" src="./public/assets/screen.png" />
